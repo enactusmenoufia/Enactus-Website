@@ -29,7 +29,6 @@
 
 /* Navbar Links - Adjusting Colors on Scroll */
 #navbar.scrolled .nav-link {
-	color: black !important;
 	position: relative;
 	transition: all 0.5s;
 }
